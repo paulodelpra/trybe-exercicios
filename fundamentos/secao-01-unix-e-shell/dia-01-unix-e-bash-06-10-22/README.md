@@ -52,7 +52,7 @@
 
 ### Requisitos:
 
-1. 1- Crie um novo diretório chamado unix_tests_search e entre nele. 2- Na pasta unix_tests_search, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl
+1. Crie um novo diretório chamado unix_tests_search e entre nele. 2- Na pasta unix_tests_search, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl
 
 ~~~bash
 mkdir unix_tests_search
