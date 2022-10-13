@@ -68,3 +68,66 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [] 8-5: _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [] 8-6: _Projeto - Zoo functions_
+
+## Front-end
+
+##### Bloco 1: JavaScript e Testes Assíncronos
+
+- [] 1-1: _JavaScript Assíncrono e Callbacks_
+- [] 1-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [] 1-3: _Jest - Testes Assíncronos_
+- [] 1-4: _Projeto - Carrinho de Compras_
+
+##### Bloco 2: Introdução ao React
+
+- [] 2-1: _'Hello, world!' no React!_
+- [] 2-2: _Componentes React_
+- [] 2-3: _Projeto - Solar System_
+
+##### Bloco 3: Componentes com Estado, Eventos e Formulários com React
+
+- [] 3-1: _Componentes com estado e eventos_
+- [] 3-2: _Formulários no React_
+- [] 3-3: _Projeto - Tryunfo_
+
+##### Bloco 4: Ciclo de Vida de Componentes e React Router
+
+- [] 4-1: _Ciclo de vida de componentes_
+- [] 4-2: _React Router_
+- [] 4-3: _Projeto - TrybeTunes_
+
+##### Bloco 5: Metodologias Ágeis
+
+- [] 5-1: _Metodologias Ágeis_
+- [] 5-2: _Projeto - Front-end Online Store_
+
+##### Bloco 6: Testes automatizados com React Testing Library
+
+- [] 6-1: _RTL - Primeiros passos_
+- [] 6-2: _RTL - Mocks e Inputs_
+- [] 6-3: _RTL - Testando React Router_
+- [] 6-4: _Projeto - Testes em React_
+
+##### Bloco 7: Gerenciamento de estado com Redux
+
+- [] 7-1: _Introdução ao Redux - O estado global da aplicação_
+- [] 7-2: _Usando o Redux no React_
+- [] 7-3: _Usando o Redux no React - Prática_
+- [] 7-4: _Usando o Redux no React - Actions Assíncronas_
+- [] 7-5: _Testes em React-Redux_
+- [] 7-6: _Projeto - Trybe Wallet_
+
+##### Bloco 8: Projeto Jogo de Trivia
+
+- [] 8-1: _Projeto - Jogo de Trivia_
+
+##### Bloco 9: Context API e React Hooks
+
+- [] 9-1: _Context API do React_
+- [] 9-2: _React Hooks - useState e useContext_
+- [] 9-3: _React Hooks - useEffect e Hooks customizados_
+- [] 9-4: _Projeto - StarWars Datatable com Context API e Hooks_
+
+##### Bloco 10: Projeto App de Receitas
+
+- [] 10-1: _Projeto - App de Receitas_
