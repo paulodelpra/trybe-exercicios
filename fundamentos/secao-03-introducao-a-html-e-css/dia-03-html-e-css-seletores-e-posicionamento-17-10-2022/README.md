@@ -13,3 +13,5 @@
 * Adicione margin e padding nos elementos que julgar necessário;
 
 * Coloque estilo somente nos itens ímpares da lista das suas habilidades.
+
+* [Clique aqui](https://paulodelpra.github.io/paulodelpra/) para ver o resultado desse exercício.
